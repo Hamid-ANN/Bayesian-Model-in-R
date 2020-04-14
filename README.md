@@ -2,7 +2,6 @@
 Bayesian models combine prior insights with insights from observed data to form updated, posterior insights about a parameter.
 Bayesian approach are very flexible, produces clear and direct inferences, and  makes use of all available information.
 
-
 Advantages:
 
 1.Applicable with a smaller data points 
@@ -20,7 +19,6 @@ Disadvantages:
 
 
 2.Sampling posterior distributions in Bayesian models is computationally expensive and slow .
-
 
 Computational details:
 In this example I have used JAGS package. It stands for Just Another Gibbs Sampler. It is a program for analysis of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation.
