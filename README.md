@@ -2,6 +2,7 @@
 Bayesian models combine prior insights with insights from observed data to form updated, posterior insights about a parameter.
 Bayesian approach are very flexible, produces clear and direct inferences, and  makes use of all available information.
 
+
 Advantages:
 
 1.Applicable with a smaller data points 
