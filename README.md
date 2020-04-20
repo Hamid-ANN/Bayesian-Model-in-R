@@ -14,6 +14,7 @@ Advantages:
 4.Wanting to claim something about the likelihood of the alternative hypothesis, rather than simply accepting/rejecting the null hypothesis
 
 
+
 Disadvantages:
 
 1.Lack of enough experience on the application of Bayesian models on the 'big data' applications 
