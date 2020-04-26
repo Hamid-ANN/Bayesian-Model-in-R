@@ -17,6 +17,8 @@ Advantages:
 
 
 
+
+
 Disadvantages:
 
 1.Lack of enough experience on the application of Bayesian models on the 'big data' applications 
