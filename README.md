@@ -6,6 +6,7 @@ Bayesian approach are very flexible, produces clear and direct inferences, and  
 
 
 
+
 Advantages:
 
 1.Applicable with a smaller data points 
